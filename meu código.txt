@@ -1,1 +1,2 @@
-Oi meu nome é gabriel
+Oi, meu nome é gabriel
+Oi, eu sou uma nova linha
